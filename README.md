@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://github.com/Tpoliszczuk/Tpoliszczuk/blob/main/TomaszR.png" width=50% height=50%>
 <!--
 **Tpoliszczuk/Tpoliszczuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
