@@ -5,9 +5,9 @@
 
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Tpoliszczuk/Python)
 ![Powershell](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Tpoliszczuk/Certificates/tree/main/IBM%20C%2B%2B%20Programming%20Essentials)
 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -31,6 +31,4 @@ About me:
 - 📫 How to reach me: Email, LinkedIn
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpoliszczuk&theme=blue-green"
-</a>
+
